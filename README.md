@@ -1,0 +1,1 @@
+# near-mock-token
